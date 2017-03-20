@@ -16,4 +16,7 @@
         </property>
     </bean>
     
+    <bean id="cdaoimpl" class="myapp.dao.ContactDAOImpl">
+    </bean>
+    
 </beans>
